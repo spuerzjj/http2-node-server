@@ -1,0 +1,16 @@
+{
+  "name": "http2-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http2": "^3.3.7",
+    "nodemon": "^3.0.2"
+  }
+}
